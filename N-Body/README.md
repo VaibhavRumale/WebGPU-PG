@@ -1,6 +1,6 @@
 # N-Body Simulation
 
-This project contains a simulation for an N-Body system implemented in HTML and JavaScript.
+This project contains a simulation for a simple version of N Body simulation
 
 
 ## Instructions
